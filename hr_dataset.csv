@@ -1,0 +1,31 @@
+employee_id,full_name,department,job_title,salary,hire_date,status,age,gender,country
+1,Emily Johnson,Sales,Sales Manager,85000,2019-03-15,Active,38,Female,USA
+2,Michael Chen,Engineering,Senior Developer,110000,2018-07-22,Active,34,Male,Canada
+3,Sarah Williams,HR,HR Specialist,62000,2020-11-01,Active,29,Female,UK
+4,James Brown,Finance,Financial Analyst,75000,2017-05-10,Active,42,Male,USA
+5,Aisha Patel,Engineering,Junior Developer,58000,2022-01-20,Active,25,Female,India
+6,Carlos Martinez,Sales,Sales Representative,52000,2021-06-14,Active,31,Male,Spain
+7,Priya Sharma,HR,HR Manager,80000,2016-09-08,Active,45,Female,India
+8,David Wilson,Finance,Senior Accountant,88000,2015-02-28,Active,50,Male,USA
+9,Fatima Al-Hassan,Marketing,Marketing Specialist,67000,2020-04-17,Active,33,Female,UAE
+10,Tom Harris,Engineering,DevOps Engineer,95000,2019-08-05,Active,37,Male,UK
+11,Lisa Thompson,Sales,Sales Representative,50000,2023-02-10,Active,27,Female,USA
+12,Omar Khalid,Marketing,Marketing Manager,82000,2018-12-01,Active,40,Male,UAE
+13,Nina Petrova,Finance,Financial Analyst,74000,2021-03-22,Active,30,Female,Russia
+14,Kevin Lee,Engineering,Senior Developer,115000,2017-11-15,Active,36,Male,South Korea
+15,Anna Schmidt,HR,HR Specialist,60000,2022-07-30,Active,28,Female,Germany
+16,Robert Davis,Sales,Sales Manager,87000,2016-04-19,Active,44,Male,USA
+17,Yuki Tanaka,Engineering,Junior Developer,55000,2023-05-08,Active,24,Female,Japan
+18,Hassan Ibrahim,Finance,CFO,145000,2013-01-10,Active,55,Male,Egypt
+19,Sophie Martin,Marketing,Content Specialist,61000,2021-09-25,Active,32,Female,France
+20,Jake Anderson,Engineering,Tech Lead,125000,2015-06-30,Active,41,Male,USA
+21,Maria Garcia,Sales,Sales Representative,51000,2022-10-03,Active,26,Female,Mexico
+22,William Taylor,HR,HR Director,105000,2014-03-17,Active,48,Male,UK
+23,Zara Ahmed,Marketing,SEO Specialist,63000,2020-08-12,Active,31,Female,Pakistan
+24,Chris Evans,Engineering,Senior Developer,112000,2018-02-25,Active,35,Male,USA
+25,Elena Popova,Finance,Junior Accountant,48000,2023-01-15,Active,23,Female,Russia
+26,Daniel Kim,Sales,Sales Representative,53000,2021-11-20,Active,29,Male,South Korea
+27,Grace O'Brien,Marketing,Marketing Analyst,68000,2019-07-14,Active,36,Female,Ireland
+28,Ahmed Hassan,Engineering,DevOps Engineer,98000,2018-05-09,Active,38,Male,Egypt
+29,Isabella Rossi,HR,Recruiter,57000,2022-04-06,Active,27,Female,Italy
+30,Nathan Wright,Finance,Financial Analyst,76000,2020-02-18,Active,33,Male,USA
